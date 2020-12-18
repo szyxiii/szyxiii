@@ -14,8 +14,4 @@ And some good experience with **C**, **C++**, **Dart**, **Node.js** and **Lua**.
 Learning **Golang** now because of [Southclaws](https://github.com/Southclaws) (Southclaws I love you)
 
 ---
-Email: `szyxiii@yandex.com`
-
-Discord: `call me szy#4698`
-
-Telegram: `@szyxiii` ([link](https://t.me/szyxiii))
+Email: `szyxiii@yandex.com` Discord: `call me szy#4698` Telegram: ([`@szyxiii`](https://t.me/szyxiii))
