@@ -16,6 +16,6 @@ Learning **Golang** now because of [Southclaws](https://github.com/Southclaws) (
 ---
 Email: `szyxiii@yandex.com`
 
-Discord: `call me szy#4698` (It changes very often, so it's better to use email or telegram).
+Discord: [`@szyxiii`](https://discord.com/users/787856223734071296)
 
 Telegram: [`@szyxiii`](https://t.me/szyxiii)
